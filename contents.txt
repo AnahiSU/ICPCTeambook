@@ -1,0 +1,53 @@
+# Any line followed by a '#' character is ignored
+# Section headings must be in square brackets
+# Subsections within a section should follow the format:
+#   [filename within code directory][tab character \t][subsection title]
+
+[Strings]
+strings/AreRotations.cpp	String A is a rotation of B?
+strings/Hashing.cpp	Hashing
+strings/KMP.cpp	KMP
+strings/PrefixFunction.cpp	Prefix Function
+strings/RabinKarp.cpp	Rabin Karp
+strings/ZFunction.cpp	Z-Function
+
+[Graph Algorithms]
+Graphs/BellmanFord.cpp	Bellman Ford
+Graphs/Bfs.cpp	BFS
+Graphs/Dfs.cpp	DFS
+Graphs/DisjointSet.cpp	Disjoint Set
+Graphs/FloodFill.cpp	Flood Fill
+Graphs/IsBipartite.cpp	Is Bipartite?
+Graphs/Kruskal.cpp	Kruskal
+Graphs/LowestCommonAncestor.cpp	Lowest Common Ancestor
+Graphs/TopologicalSort.cpp	TopoSort
+
+[Data Structures]
+Data Structures/FenwickTree.cpp	Fenwick Tree
+Data Structures/Quadtree.cpp	QuadTree
+Data Structures/SegmentTreeMaxMin.cpp	Segment Tree Max and Min
+Data Structures/SegmentTreeXOR.cpp	Segment Tree XOR
+
+[Number Theory]
+Math/BinaryPow.cpp	Binary Pow
+Math/BinomialCoefficient.cpp	Binomial Coefficient
+Math/Cribe.cpp	Cribe
+Math/Divisors.cpp	Divisors of a number
+Math/ModularExponentiation.cpp	Modular Exponentiation
+Math/ModularInverse.cpp	Modular Inverse
+Math/PrimeFactors.cpp	Prime Factors of a number
+
+
+[Geometry]
+Geometry/Functions.cpp	Geometry Functions
+Geometry/Hull.cpp	Convex Hull
+Geometry/Structs.cpp	Structs
+
+[Other]
+Other/BinarySearch.cpp	Binary Search
+Other/GeneratingSubSets.cpp	Generating Subsets Recursively
+Other/IncreasingSubsequence.cpp	Increasing Subsequences
+Other/Knapsack.cpp	Knapsack
+Other/LongestIncreasingSubsequence.cpp	Longest Increasing Subsequence
+
+[Fin]
