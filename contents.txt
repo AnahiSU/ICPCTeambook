@@ -4,12 +4,12 @@
 #   [filename within code directory][tab character \t][subsection title]
 
 [Strings]
-strings/AreRotations.cpp	String A is a rotation of B?
-strings/Hashing.cpp	Hashing
-strings/KMP.cpp	KMP
-strings/PrefixFunction.cpp	Prefix Function
-strings/RabinKarp.cpp	Rabin Karp
-strings/ZFunction.cpp	Z-Function
+Strings/AreRotations.cpp	String A is a rotation of B?
+Strings/Hashing.cpp	Hashing
+Strings/KMP.cpp	KMP
+Strings/PrefixFunction.cpp	Prefix Function
+Strings/RabinKarp.cpp	Rabin Karp
+Strings/ZFunction.cpp	Z-Function
 
 [Graph Algorithms]
 Graphs/BellmanFord.cpp	Bellman Ford
