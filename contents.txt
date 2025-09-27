@@ -27,6 +27,7 @@ Data Structures/FenwickTree.cpp	Fenwick Tree
 Data Structures/Quadtree.cpp	QuadTree
 Data Structures/SegmentTreeMaxMin.cpp	Segment Tree Max and Min
 Data Structures/SegmentTreeXOR.cpp	Segment Tree XOR
+Data Structures/LazySegmentTreeRMQ.cpp	Lazy Segment Tree RMQ
 
 [Number Theory]
 Math/BinaryPow.cpp	Binary Pow
